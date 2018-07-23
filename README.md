@@ -6,8 +6,9 @@
 单词书：
 《GRE核心词汇考法精析》（再要你命3000）
 
-[单词狂想](https://github.com/afarx/GREFantasy/blob/master/21days.pdf)
+[单词狂想](https://github.com/afarx/GREFantasy/blob/master/WordFantasy.md)
 
-[单词计划表](https://github.com/afarx/GREFantasy/blob/master/WordFantasy.md)
+[单词计划表](https://github.com/afarx/GREFantasy/blob/master/21days.pdf)
+
 
 [制定单词计划网站](http://www.exam4.us/)
