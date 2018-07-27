@@ -132,4 +132,40 @@ A song include prelude, loud song, and coda.
 - deluge 大暴雨
 
 
+# 0725 
+> Life sucks.
+
+# 0726
+- carp 对小事吹毛求疵，表示不满
+
+- cavil 挑剔，吹毛求疵
+
+- categorical 绝对的
+
+- chagrin 不安，焦虑
+
+- chimera 幻觉
+
+- commencement 开始；毕业典礼
+
+- cantankerous 脾气不好的
+
+- contumacious 不服从的，倔强的
+
+- conundrum 无法解决的问题，迷
+
+- enigma 难以理解的事物，谜
+
+- derivative 非原创的
+
+- divination 语言
+
+- distraught 精神狂乱的
+
+# 0727
+> Lucky day!
+
+- fanatic 狂热者
+
+- farce 闹剧
 
